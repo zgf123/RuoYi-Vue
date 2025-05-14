@@ -16,8 +16,8 @@
 配套前端ui vue3+ts https://github.com/zgf123/ruoyi-ui-vue3-ts
 
 修改器 
-- [https://blog.csdn.net/tck001221/article/details/131580615](https://blog.csdn.net/tck001221/article/details/131580615)
-- https://gitee.com/lpf_project/common-tools#https://gitee.com/lpf_project/RuoYi-MT/releases/download/V4-20230425/%E8%8B%A5%E4%BE%9D%E6%A1%86%E6%9E%B6%E4%BF%AE%E6%94%B9%E5%99%A8.exe
+- [介绍](https://blog.csdn.net/tck001221/article/details/131580615)
+- [下载地址](https://gitee.com/lpf_project/common-tools#https://gitee.com/lpf_project/RuoYi-MT/releases/download/V4-20230425/%E8%8B%A5%E4%BE%9D%E6%A1%86%E6%9E%B6%E4%BF%AE%E6%94%B9%E5%99%A8.exe)
 
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
