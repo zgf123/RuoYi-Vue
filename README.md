@@ -13,6 +13,8 @@
 
 若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
 
+配套前端ui vue3+ts https://github.com/zgf123/ruoyi-ui-vue3-ts
+
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
